@@ -1,2 +1,4 @@
 # Competative-Coding
-Algorithm and Data Structure resources
+List of awesome Competitive Programming, Algorithm and Data Structure resources.
+
+What is competitive programming? - Quora
