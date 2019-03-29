@@ -1,5 +1,6 @@
 # Competative-Coding
-List of awesome Competitive Programming, Algorithm and Data Structure resources.
+List of awesome Competitive Programming, Algorithm and Data Structure resources.<br>
+-Send Feedback to shani.pathak98@gmail.com from [Here](https://www.guerrillamail.com/compose)
 * Motivation and Be Aware Of
   * <a href="https://www.quora.com/What-is-competitive-programming-2">What is competitive programming? - Quora</a>
   * [getstarted-competitive-programming](https://www.hackerearth.com/getstarted-competitive-programming/)
